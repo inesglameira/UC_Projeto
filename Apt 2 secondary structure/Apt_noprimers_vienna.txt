@@ -1,3 +1,0 @@
->dG =     -5.98 Apt2
-ATGTTGTTGCCGGGACGCCTCCTTCACCAAAGTTGGTGTCCCCACCTAC
-...........((((((((..(((.....)))..)))))))).......
