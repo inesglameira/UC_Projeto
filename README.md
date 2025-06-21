@@ -23,7 +23,7 @@ This project focuses on structurally validating the interaction between the Apt2
    - Output: Dot-bracket format for 3D modeling
 
 2. **Tertiary Structure Modeling**  
-   - Tool: [3dDNA](http://biophy.hust.edu.cn/3dDNA/)
+   - Tool: [3dDNA](http://biophy.hust.edu.cn/new/)
    - Followed by Molecular Dynamics using AMBER20
 
 3. **Protein Modeling**  
