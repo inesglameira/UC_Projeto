@@ -1,5 +1,3 @@
-# Apt2-TNBC Binding Characterization
-
 This repository contains the bioinformatics pipeline and supporting files for the project:
 
 **"Identification of new breast cancer-related biomarkers via integrated bioinformatics analysis and experimental validation"**  
